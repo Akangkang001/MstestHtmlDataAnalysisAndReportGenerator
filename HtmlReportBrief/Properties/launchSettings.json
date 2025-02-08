@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HtmlReportBrief": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\zhwch\\Desktop\\HtmlReportBrief\\Results"
+    }
+  }
+}
